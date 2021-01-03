@@ -69,7 +69,7 @@ To draw out the softness of the girl's arm, I gently, gently apply color using t
 After that, I apply strong cast shadows and highlights to make the arm pop out.
 
 ### Nails:
-For the nails, I picked up a soft color similar to the skin's, and use highlights to convey the difference in texture from that of the skin.\ 
+For the nails, I picked up a soft color similar to the skin's, and use highlights to convey the difference in texture from that of the skin. \ 
 I change the color of the line art to skin-color to soften the impression at the base of the finger.
 
 # Page 149
@@ -78,12 +78,12 @@ I go ahead and put shadows and light reflections into the handle. The area aroun
 I didn't know how the plastic portion would reflect light, so I took pictures of an umbrella I had at home and used those as reference when coloring. I paid attention to making a clean interface between the highly transparent white and completely white areas. 
 
 ### Flower:
-Ultimately, the flowers are just decorative items, so I chose not to make them complex, to avoid making the illustration look cluttered.\ 
+Ultimately, the flowers are just decorative items, so I chose not to make them complex, to avoid making the illustration look cluttered. \ 
 I kept it to a gradation and a shadow to convey texture, with the occasional highlight. I blurred the flower petals in the front to add a sense of depth.
 
 # Page 150
 ## Step 5: Finishing Touches
-I look at the overall balance of the illustration, and use the Multiply and Overlay blending modes to adjust the color.\
+I look at the overall balance of the illustration, and use the Multiply and Overlay blending modes to adjust the color. \
 I also tried changing the positions of the flowers based on the viewer's perspective. After that, I use Glow layers to add in the rain and rainbow, and finish.
 <details>
     <summary>TL Note</summary>
