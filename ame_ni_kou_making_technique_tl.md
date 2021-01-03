@@ -26,7 +26,7 @@ For the eyes, there are times when I carry forward the lines from the rough draf
 ## Step 4: Coloring
 I separate the parts of the drawing by color.\
 I use the "Enclose and Fill" tool to go ahead and fill in the parts.\
-Filling in the skin excites me the most, so I start with that first.\
+Filling in the skin excites me the most, so I start with that first.
 
 # Page 144
 ### Skin:
