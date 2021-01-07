@@ -22,6 +22,11 @@ I wanted to draw a sunshower, so I focused on the orange to blue gradation.
 The pen I am using for the line art is "Pencil R" customized to be slightly harder than default.
 I wan t to change the color of the lines and add depth later, so I finely separated the head area into many layers.\
 For the eyes, there are times when I carry forward the lines from the rough draft directly to the line art, to avoid changing the impression they give.
+<details>
+    <summary>TL Note</summary>
+    I can't find "Pencil R" in Clip Studio Paint. It might be equivalent to Real Pencil, or it could be the 鉛筆R asset (https://assets.clip-studio.com/en-us/detail?id=1702962)
+</details>
+
 
 ## Step 4: Coloring
 I separate the parts of the drawing by color.\
@@ -74,7 +79,7 @@ After that, I apply strong cast shadows and highlights to make the arm pop out.
 
 ### Nails:
 For the nails, I picked up a soft color similar to the skin's, and use highlights to convey the difference in texture from that of the skin. \
-I change the color of the line art to skin-color to soften the impression at the base of the finger.
+I change the color of the line art to skin-color to soften the impression at the base, where it meets the finger.
 
 # Page 149
 ### Plastic Umbrella:
